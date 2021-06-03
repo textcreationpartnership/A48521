@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A very strange prediction of liberty of conscience, foretold (in the year 1652.) and published by our late famous English astrologer VVilliam Lilly, tho then not vulgerly understood, and was therefore the less taken notice of, tho presaging things of great weight and worth, such as the things following may be. First, a church way, laws and orders decreed of God for this kingdom of England in time to come, and by what kind of people to be carried on, and how they shall be qualified for their said work, and how the people in this kingdom may be fitted to receive the same. Secondly, that in favour thereof the then present chief or head magistrate in the kingdom shall respit the execution of the penal laws, by the name of his sharp laws. Thirdly, that about that time the terestial Jerusalem shall be recovered out of the hands of the Turks, the Jews converted, and the fullness of the gentiles brought in, as the scriptures of the Old and New Testaments do declare. With allowance</title>
+            <author>Lilly, William, 1602-1681.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48521</idno><idno type="EEBO-CITATION">99825954</idno>
+  <idno type="VID">30346</idno>
+  <idno type="EEBO-PROQUEST">2240911083</idno>
+  
+            <idno type="STC">Wing L2250A</idno>
+            <idno type="STC">ESTC R213618</idno>
+            <idno type="PROQUEST">99825954</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99825954e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48521)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30346)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1796:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A very strange prediction of liberty of conscience, foretold (in the year 1652.) and published by our late famous English astrologer VVilliam Lilly, tho then not vulgerly understood, and was therefore the less taken notice of, tho presaging things of great weight and worth, such as the things following may be. First, a church way, laws and orders decreed of God for this kingdom of England in time to come, and by what kind of people to be carried on, and how they shall be qualified for their said work, and how the people in this kingdom may be fitted to receive the same. Secondly, that in favour thereof the then present chief or head magistrate in the kingdom shall respit the execution of the penal laws, by the name of his sharp laws. Thirdly, that about that time the terestial Jerusalem shall be recovered out of the hands of the Turks, the Jews converted, and the fullness of the gentiles brought in, as the scriptures of the Old and New Testaments do declare. With allowance</title>
+                  <author>Lilly, William, 1602-1681.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed and sold by Andrew Sowle, at the Three Keys, in Nags-Head-Court, in Grace-Church-Street, over-against the Conduit,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Predictive astrology --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Restoration, 1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:30346:1"/>
+            <head>A very Strange PREDICTION OF <hi>Liberty of Conscience,</hi> Foretold (in the Year 1652.) And Published by our late Famous <hi>English</hi> Astrologer William Lilly, Tho then not vulgerly understood, and was therefore the less taken notice of, tho presaging things of great Weight and Worth, such as the things following may be. <hi>First,</hi> A Church Way, Laws and Orders decreed of God for this Kingdom of <hi>England</hi> in time to come, and by what kind of People to be carried on, and how they shall be qualified for their said Work, and how the People in this Kingdom may be fitted to receive the same. <hi>Secondly,</hi> That in favour thereof the then present Chief or Head Magistrate in the Kingdom shall respit the Execution of the <hi>Penal Laws,</hi> by the Name of his <hi>Sharp Laws. Thirdly,</hi> That about that time the <hi>Terestial Jerusalem</hi> shall be recovered out of the Hands of the <hi>Turks,</hi> the <hi>Jews</hi> Converted, and the Fulness of the <hi>Gentiles</hi> brought in, as the Scriptures of the Old and New Testaments do declare.</head>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>With Alowance.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>Lilly</hi>'s Prediction, <hi>saying,</hi>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="text">
+                           <p>THO God makes use of some now to begin the Great Work intended by him, yet, in regard of their many faillings, they shall not have the Honour to Build unto God, that Heavenly and Perpetual Taber<g ref="char:EOLhyphen"/>nacle of Glory which 'ere long must be Erected. No, some of them have been Men of Blood, Covetousness, Self-Ends, Op<g ref="char:EOLhyphen"/>pression and Bribery; and others so full of Corruption and Self-Interest, that they shall have no Honour in acting such high Mat<g ref="char:EOLhyphen"/>ters, as in a few Years must be performed; for God Almighty endures no Corruption in his Ser<g ref="char:EOLhyphen"/>vant, Himself being all Purity and Holiness.</p>
+                           <p>And further more I say, That the Heavenly Rule which God intends for this Kingdom of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> shall be wrote down in in<g ref="char:EOLhyphen"/>nocent and plain Characters, and put in Execution by Plain Men, and Sincere, upon whom the Spi<g ref="char:EOLhyphen"/>rit of the Father shall miraculously descend, and potentially enable them for that great Work of Con<g ref="char:EOLhyphen"/>verting
+<pb facs="tcp:30346:2"/> Souls without Expectation of Worldly Preferment, a thing now meerly in Request; and the same Spirit of God shall in a won<g ref="char:EOLhyphen"/>derful measure fall upon the People of this Nation in general, that they shall then unanimously embrace all those holy Laws and Dictates that shall be tendered to them, without Murmurring or Repining.</p>
+                           <p>
+                              <note place="margin">The <hi>Penal Laws</hi> suspended as now they are, by which this our Gracious King hath personally and efectually veri<g ref="char:EOLhyphen"/>fied this part of the Prediction.</note>The Magistrate shall not then Execute his sharp Laws, which from thenceforth shall be totally laid aside; for Men shall then u<g ref="char:EOLhyphen"/>niversally embrace this Commandment, and fulfil it, <hi>viz. Love thy Neighbours as thy Self.</hi>
+                           </p>
+                           <p>
+                              <hi>And the abovesaid Author further said,</hi> That about the same time, the <hi>Christians</hi> abroad should recover the Terestial <hi>Jerusalem,</hi> and the Holy Land, out of the Hands of the <hi>Turks,</hi> and that God also should with-draw the Nation of the <hi>Jews</hi> from their Hard-heart<g ref="char:EOLhyphen"/>edness, and from those Countries where now they Live concealed, and by Miracle cause them to be<g ref="char:EOLhyphen"/>lieve in <hi>Jesus Christ</hi> the true <hi>Mes<g ref="char:EOLhyphen"/>sias.</hi>
+                           </p>
+                           <p>And that by their Means and Preaching innumerable People of <hi>Asia</hi> and <hi>Africa</hi> should be conver<g ref="char:EOLhyphen"/>ted unto <hi>Christianity,</hi> yea, and the <hi>Turks</hi> too, as well as all other Na<g ref="char:EOLhyphen"/>tions besides.</p>
+                           <p>
+                              <hi>And furthermore, he saith,</hi> That after the calling of the <hi>Jews,</hi> the Scriptures shall be far better un<g ref="char:EOLhyphen"/>derstood then now they are; for <hi>(saith he)</hi> we are in great Dark<g ref="char:EOLhyphen"/>ness, and see very little, and pity it is that we see so little, and un<g ref="char:EOLhyphen"/>derstand less Verity. All these things I mention, or most of them, are very near approching, and admit not of Centuries of Years for their performance.</p>
+                           <closer>
+                              <signed>
+                                 <hi>This far <hi>William Lilly.</hi>
+                                 </hi>
+                              </signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </p>
+            <p>Unto all which the Publisher craves leave to add, First, from a <hi>Jewish Rabbie,</hi> who in his time declared, That the Reign of <hi>Christ</hi> on Earth should first begin in this Island of <hi>Great Britain,</hi> as it be<g ref="char:EOLhyphen"/>gins apace now to do. Secondly, from our late Doctor <hi>Tongue,</hi> who in a Book of his Collection of many antient Prophesies, presen<g ref="char:EOLhyphen"/>ted to our late King of Blessed Memory, recites one Prophesie, in which it is said, <hi>That this King<g ref="char:EOLhyphen"/>dom should be called, The Kingdom of Christ.</hi> All which its possible, yea, and probable too may come to pass in time. Not that I do think that there shall be no other King besides, but rather that those that be may Govern more by the Laws of Christ then their own, and so it is already; for the Law of Christ is, <hi>To do as we would be done unto,</hi> which is the measure our King hath taken in most of his Transactions since his happy coming to the Imperial Crown.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed and Sold by</hi> Andrew Sowle, <hi>at the</hi> Three Keys, <hi>in</hi> Nags-Head-Court, <hi>in</hi> Grace-Church-Street, <hi>over-against the</hi> Conduit, 1688.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
